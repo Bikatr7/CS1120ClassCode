@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Tetra\Desktop\CStuff\Arrays\Arrays\main.c(26,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\Tetra\Desktop\CStuff\Arrays\Arrays\main.c(26,9): message : consider using '%zu' in the format string
+C:\Users\Tetra\Desktop\CStuff\Arrays\Arrays\main.c(28,9): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+C:\Users\Tetra\Desktop\CStuff\Arrays\Arrays\main.c(28,9): message : consider using '%zu' in the format string
+  Arrays.vcxproj -> C:\Users\Tetra\Desktop\CStuff\Arrays\x64\Debug\Arrays.exe

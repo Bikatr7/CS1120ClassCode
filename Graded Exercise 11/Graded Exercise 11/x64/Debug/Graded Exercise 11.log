@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Tetra\Desktop\CStuff\Graded Exercise 11\Graded Exercise 11\main.c(29,11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Tetra\Desktop\CStuff\Graded Exercise 11\Graded Exercise 11\main.c(29,11): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Tetra\Desktop\CStuff\Graded Exercise 11\Graded Exercise 11\main.c(29,11): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Tetra\Desktop\CStuff\Graded Exercise 11\Graded Exercise 11\main.c(29,11): message : this argument is used as a buffer size
+C:\Users\Tetra\Desktop\CStuff\Graded Exercise 11\Graded Exercise 11\main.c(82,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tetra\Desktop\CStuff\Graded Exercise 11\Graded Exercise 11\main.c(18,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Graded Exercise 11.vcxproj -> C:\Users\Tetra\Desktop\CStuff\Graded Exercise 11\x64\Debug\Graded Exercise 11.exe

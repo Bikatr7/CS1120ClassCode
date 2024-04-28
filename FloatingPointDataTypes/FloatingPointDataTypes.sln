@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FloatingPointDataTypes", "FloatingPointDataTypes\FloatingPointDataTypes.vcxproj", "{08525611-3A25-40C9-B5E1-CCDF462B13BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Debug|x64.ActiveCfg = Debug|x64
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Debug|x64.Build.0 = Debug|x64
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Debug|x86.Build.0 = Debug|Win32
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Release|x64.ActiveCfg = Release|x64
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Release|x64.Build.0 = Release|x64
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Release|x86.ActiveCfg = Release|Win32
+		{08525611-3A25-40C9-B5E1-CCDF462B13BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA61A7F-1768-407F-A7AC-8A3A3661FCFE}
+	EndGlobalSection
+EndGlobal

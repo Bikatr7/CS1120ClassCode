@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\kbilyeu\Desktop\C\CharDataTypes\CharDataTypes\main.c(36,29): warning C4305: '=': truncation from 'double' to 'float'
+  CharDataTypes.vcxproj -> C:\Users\kbilyeu\Desktop\C\CharDataTypes\x64\Debug\CharDataTypes.exe
